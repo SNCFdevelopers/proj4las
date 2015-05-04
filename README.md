@@ -1,5 +1,5 @@
 # proj4las
-Un petit soft pour changer de système de coordonnées
+Un petit soft en c++ pour changer de système de coordonnées
 
 1. Installer 
 -proj4
